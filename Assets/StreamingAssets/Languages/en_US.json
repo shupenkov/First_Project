@@ -1,0 +1,64 @@
+{
+  "items": [
+    {
+      "key": "SettingsSoundValue",
+      "value": "Sounds"
+    },
+    {
+      "key": "SettingsMusicValue",
+      "value": "Music"
+    },
+    {
+      "key": "SettingsLanguage",
+      "value": "Language"
+    },
+    {
+      "key": "BtnNewGame",
+      "value": "Start Game"
+    },
+    {
+      "key": "BtnContinue",
+      "value": "Continue"
+    },
+    {
+      "key": "BtnSetting",
+      "value": "Setting"
+    },
+    {
+      "key": "BtnExit",
+      "value": "End Game"
+    },
+    {
+      "key": "BtnBack",
+      "value": "Back"
+    },
+    {
+      "key": "BtnCheckOnLaptop",
+      "value": "Check"
+    },
+    {
+      "key": "BtnCloseFileOnLaptop",
+      "value": "Close"
+    },
+    {
+      "key": "BtnSwitchOffLaptop",
+      "value": "OFF"
+    },
+    {
+      "key": "PromtWindows",
+      "value": "Press R to break the window"
+    },
+    {
+      "key": "PromtFlashlight",
+      "value": "Press F to use Flashlight"
+    },
+    {
+      "key": "EndGameResult",
+      "value": "Your result is "
+    },
+    {
+      "key": "BtnResetGame",
+      "value": "Reset Game"
+    }
+  ]
+}

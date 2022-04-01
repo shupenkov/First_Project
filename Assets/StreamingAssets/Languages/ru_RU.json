@@ -1,0 +1,65 @@
+{
+  "items": [
+    {
+      "key": "SettingsSoundValue",
+      "value": "Звуки"
+    },
+    {
+      "key": "SettingsMusicValue",
+      "value": "Музыка"
+    },
+    {
+      "key": "SettingsLanguage",
+      "value": "Язык"
+    },
+    {
+      "key": "BtnNewGame",
+      "value": "Начать игру"
+    },
+    {
+      "key": "BtnContinue",
+      "value": "Продолжить"
+    },
+    {
+      "key": "BtnSetting",
+      "value": "Настройки"
+    },
+    {
+      "key": "BtnExit",
+      "value": "Выход"
+    },
+    {
+      "key": "BtnBack",
+      "value": "Назад"
+    },
+    {
+      "key": "BtnCheckOnLaptop",
+      "value": "Проверить"
+    },
+    {
+      "key": "BtnCloseFileOnLaptop",
+      "value": "Выйти"
+    },
+    {
+      "key": "BtnSwitchOffLaptop",
+      "value": "<-"
+    },
+    {
+      "key": "PromtWindows",
+      "value": "Нажмите R, чтобы разбить стекло"
+    },
+    {
+      "key": "PromtFlashlight",
+      "value": "Нажмите F, чтобы использовать фонарь"
+    },
+    {
+      "key": "EndGameResult",
+      "value": "Ваш результат "
+    },
+    {
+      "key": "BtnResetGame",
+      "value": "Перезапустить игру"
+    }
+
+  ]
+}
